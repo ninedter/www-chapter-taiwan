@@ -1,2 +1,2 @@
-# www-chapter-taiwan
-OWASP Foundation Web Respository
+# OWASP Taiwan Chapter
+Web page repository for OWASP Taiwan Chapter
